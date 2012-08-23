@@ -1,0 +1,4 @@
+﻿ 
+& SQLCMD –L
+
+'any luck?'
